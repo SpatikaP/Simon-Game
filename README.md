@@ -4,6 +4,8 @@
 
 - The HTML appears to contain buttons with different colors.
 - The CSS styles the game elements, including the buttons, background, fonts, and game-over screen.
+  
+![image](https://github.com/SpatikaP/Simon-game/assets/79979665/83bc5ce2-c967-42f8-bf27-3c799252685c)
 
 **JavaScript:**
 
